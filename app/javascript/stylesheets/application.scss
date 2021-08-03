@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@300;500;700&display=swap');
+
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-family-serif: 'Lora', serif;
+
+$color-primary: #0d71b8;
+$color-secondary: #ed2d99;
+$color-light: #ffff;
+
+$theme-colors: (
+  "primary": $color-primary,
+  "secondary": $color-secondary,
+  "ligh": $color-light,
+  "danger": #ff4136
+);
+
+@import "~bootstrap/scss/bootstrap";
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: $color-secondary;
+}
+
+.index_main {
+  font-family: $font-family-sans-serif;
+}
