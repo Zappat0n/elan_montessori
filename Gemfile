@@ -49,3 +49,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "turbo-rails", "~> 0.6.0"
 
 gem "figaro", "~> 1.2"
+
+gem "i18n-js", "~> 3.9"
+
+gem "rails-i18n", "~> 6.0"
