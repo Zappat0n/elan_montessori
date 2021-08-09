@@ -29,19 +29,19 @@
 # To learn more, please read the Rails Internationalization guide
 # available at https://guides.rubyonrails.org/i18n.html.
 
-en:
+es:
   index:
-    ten_reasons: "10 REASONS"
-    the_school: "THE SCHOOL"
-    cycles: "CYCLES"
-    infant_comunity: "Infant comunity 18m-3 years"
-    cdb: "Child education 3-6 years"
-    primary_i: "Primary 6-9 years"
-    primary_ii: "Primary 9-12 years"
-    news: "NEWS"
-    secretary: "SECRETARIAT"
-    contact: "CONTACT"
-    visit: "VISIT"
-    location: "LOCATION"
-    jobs: "WORK WITH US"
-    language: "ESPAÑOL"
+    ten_reasons: "10 RAZONES"
+    the_school: "EL COLEGIO"
+    cycles: "CICLOS"
+    infant_comunity: "comunidad infantil 18m 3 aÑos"
+    cdb: "educacion infantil 3-6 aÑos"
+    primary_i: "Primaria 6-9 años"
+    prymary_ii: "Primaria 9-12 años"
+    news: "NOTICIAS"
+    secretary: "SECRETARIA"
+    contact: "CONTACTO"
+    visit: "AGENDA UNA VISITA"
+    location: "LOCALIZACIÓN"
+    jobs: "EMPLEO"
+    language: "ENGLISH"
