@@ -5,11 +5,12 @@
 import { hot } from 'react-hot-loader/root';
 import React from 'react'
 import ReactDOM from 'react-dom'
-import NavBar from '../components/NavBar'
+import BottomNavigationBar from '../components/BottomNavigationBar'
+import '../stylesheets/application.scss';
 
 const Index = () => (
   <div>
-    <NavBar />
+    <BottomNavigationBar />
     <p>Hi</p>
   </div>
 )
